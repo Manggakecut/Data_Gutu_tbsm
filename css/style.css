@@ -1,0 +1,19 @@
+.p{
+    text-align: center;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    width: 27%;
+    padding: 4px;
+    text-align: center;
+}
+
+th{
+    background-color: cornflowerblue;
+
+}
+
+tr:nth-child(even) {
+    background-color: rgb(238, 130, 238);
+}
